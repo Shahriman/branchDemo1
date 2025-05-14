@@ -2,7 +2,7 @@
 
 const axios = require('axios');
 const apikey = 'AIzaSyAn7h3tsW_p0md5iISNFzLcJDoRGRgjWPg';
-const address = 'USM Penang';
+const address = 'Queensbay Mall';
 
 const querystr = `https://maps.googleapis.com/maps/api/geocode/json?address=${address}&key=${apikey}`;
 
