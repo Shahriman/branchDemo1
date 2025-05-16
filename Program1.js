@@ -1,8 +1,8 @@
-//Update by Shahriman on 14 May 2025, at 1.40pm.
+//Update by Shahriman on 16 May 2025, at 9.30am.
 
 const axios = require('axios');
 const apikey = 'AIzaSyAn7h3tsW_p0md5iISNFzLcJDoRGRgjWPg';
-const address = 'USM Penang';
+const address = 'Inti Penang';
 
 const querystr = `https://maps.googleapis.com/maps/api/geocode/json?address=${address}&key=${apikey}`;
 
